@@ -20,7 +20,7 @@ If the combination fed into hitme() was never encountered in the simulations, hi
 
 ## Transcript
 ______________________________________________________________________
-1. 100,000 simulations and 100,000 games played 
+100,000 simulations and 100,000 games played 
 ### Matrix:
 *Each column in the matrix is separated by a new line.*
 
@@ -50,7 +50,7 @@ defaultdict({
 The winning rate is 0.42776 which is about 42.78%. 
 ______________________________________________________________________
 
-1. 500,000 simulations and 500,000 games played
+500,000 simulations and 500,000 games played
 #### Matrix
 *Each column in the matrix is separated by a new line.*
 
@@ -80,7 +80,7 @@ defaultdict({
 The winning rate is 0.429272 which is about 42.93%.
 ______________________________________________________________________
 
-1. 5,000,000 simulations and 5,000,000 games played
+5,000,000 simulations and 5,000,000 games played
 #### Matrix
 *Each column in the matrix is separated by a new line.*
 defaultdict({
@@ -110,7 +110,7 @@ defaultdict({
 The winning rate is 0.4275974 which is about 42.76%.
 ______________________________________________________________________
 
-1. 10,000,000 simulations and 10,000,000 games played
+10,000,000 simulations and 10,000,000 games played
 #### Matrix
 *Each column in the matrix is separated by a new line.*
 defaultdict({
