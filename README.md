@@ -1,5 +1,5 @@
 # BlackJack Player
-<iframe src="https://giphy.com/embed/4THLFgXmocByg" width="480" height="322" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/vegas-package-signals-4THLFgXmocByg">via GIPHY</a></p>
+![image](https://user-images.githubusercontent.com/50711847/223240318-5828e0ba-5cd5-4214-97d5-28021eb7897e.png)
 
 ## Table of contents
 
